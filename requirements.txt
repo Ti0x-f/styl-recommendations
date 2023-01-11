@@ -5,4 +5,4 @@ python-dotenv==0.13.0
 requests==2.23.0
 six==1.14.0
 spotipy==2.11.2
-urllib3==1.25.9
+urllib3==1.26.5

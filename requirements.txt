@@ -4,5 +4,5 @@ idna==2.9
 python-dotenv==0.13.0
 requests==2.23.0
 six==1.14.0
-spotipy==2.11.2
+spotipy==2.22.1
 urllib3==1.26.5
